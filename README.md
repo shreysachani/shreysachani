@@ -1,8 +1,8 @@
 Hi 👋 My name is Shrey
-
+======================
 
 Front End Developer
-
+-------------------
 
 Hey there, I am Shrey Sachani and I am currently a 3rd year Computer Science student studying at Sarvajanik College Of Engineering and Technology in Surat, Gujarat. I have recently started my professional journey to become a Full Stack Developer and I'm going to achieve it by the end of this year.
 
