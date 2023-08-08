@@ -4,10 +4,10 @@ Hi 👋 My name is Shrey
 Front End Developer
 -------------------
 
-Hey there, I am Shrey Sachani and I am currently a 3rd year Computer Science student studying at Sarvajanik College Of Engineering and Technology in Surat, Gujarat. I have recently started my professional journey to become a Full Stack Developer and I'm going to achieve it by the end of this year.
+Hey there, I am Shrey Sachani and I have completed my graduation in Computer Science at Sarvajanik College Of Engineering and Technology,situated in Surat, Gujarat. I have started my professional journey to become a Full Stack Developer and I'm going to achieve it by the end of this year.
 
-*   🧠  I'm learning Javascript
-*   🚀  I'm currently working on [GymLandingPage](http://github.com/shreysachani/GymLandingPage)
+*   🧠  I'm learning Next Js
+*   🚀  I'm currently working on Spotify Clone
 *   ✉️  You can contact me at [realshreysachani@gmail.com](mailto:realshreysachani@gmail.com)
 
 
