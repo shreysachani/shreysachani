@@ -10,9 +10,15 @@ Dedicated Software Developer with a passion for creating efficient and scalable 
 - Learning Node.js and exploring backend development.
 
 ### 🤝 Let's Connect
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" />[LinkedIn](https://www.linkedin.com/in/shrey-sachani/)
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="16" height="16" />[Twitter](https://twitter.com/ShreySachani)
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" />[Github](https://www.github.com/shreysachani)
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" />[LinkedIn](https://www.linkedin.com/in/shrey-sachani/) <br />
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="16" height="16" />[Twitter](https://twitter.com/ShreySachani)  <br />
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" />[Github](https://www.github.com/shreysachani) <br />
+- <a href="https://www.github.com/shreysachani" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" />
+  </a>
+- <a href="https://www.linkedin.com/in/shrey-sachani-047766234/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" />
+  </a>
 <!-- - [Personal Portfolio](https://your-portfolio.com)     -->
 
 ### 💬 Let's Collaborate
